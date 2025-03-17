@@ -21,7 +21,6 @@ Before running the application, ensure you have the following:
 1.Python 3.7 or higher installed.(Used python version -3.12.7)
 
 2.Google API Key: You need a valid Google API key to use the Gemini LLM. Store the key in a constant.py file as google_api_key.
-For Api key =https://ai.google.dev/
 
 3.Required Python libraries installed (see Installation below).
 
