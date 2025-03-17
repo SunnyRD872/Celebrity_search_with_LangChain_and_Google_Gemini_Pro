@@ -1,0 +1,1 @@
+# Celebrity_search_with_LangChain_and_Google_Gemini_Pro
